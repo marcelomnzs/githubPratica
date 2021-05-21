@@ -8,7 +8,7 @@ Repositório destinado à resolução de exercícios de **Git e Github** propost
 
 ---
 
-# Exercícios Propostos
+# Links dos exercícios Propostos:
 
 - [Exercício 01](https://womakerscode.gitbook.io/desvendando-git-e-github/hands-on/exercicio-1);
 - [Exercício 02](https://womakerscode.gitbook.io/desvendando-git-e-github/hands-on/exercicio-2);
